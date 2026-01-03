@@ -9,7 +9,8 @@ Evaluate vendor sales, profitability, inventory turnover, and unsold capital to 
 - Power BI (DAX, Data Modeling)
 
 ## Dataset
-750K+ transactional records (sample uploaded)
+750K+ transactional records
+
 
 ## Key Insights
 - Identified $2.71M in unsold inventory
